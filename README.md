@@ -12,3 +12,6 @@ For the report, please contact us, and please note that the report is in French.
 
 --------------
 We will soon attach the link to the youtube demo video
+
+------------------
+Utilisation : To use the code, please take all the sources from the corresponding folders to put in 1 UNIQUE file and then launche Quartus
